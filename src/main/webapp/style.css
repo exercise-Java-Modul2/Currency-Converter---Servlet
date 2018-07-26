@@ -1,0 +1,10 @@
+.content {
+    height: 200px;
+    width: 300px;
+    margin-left: 30%;
+    border: 2px black solid;
+}
+#data {
+    padding-left: 30px;
+    font-size: 20px;
+}
